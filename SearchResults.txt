@@ -1,0 +1,652 @@
+Allentiac: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Alnair: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Alpheus: 4 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+ALS 16791: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Ambibates: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Anayali: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Angurongo: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Anhualm: 8 profitable route(s). 0 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Antani: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Arapipi: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Arevakimos: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Armo: 8 profitable route(s). 2 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Arugua: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Audhr: 4 profitable route(s). 24 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Babal: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Bactondinks: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Balmung: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Bena: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Bestii: 4 profitable route(s). 24 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+bhodha: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Bloder: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Canda: 8 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+CD-46 14401: 4 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-49 13082: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-52 9466: 4 profitable route(s). 24 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-52 9732: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-55 8747: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-58 7880: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-59 7632: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-60 7742: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-61 6651: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CD-63 1560: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Chacocha: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Chaiman: 8 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Chakho: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Cheneti: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Chono: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Cimih: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Comaucate: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Conchucos: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CPC 20 6743: 4 profitable route(s). 26 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+CPD-64 4178: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Dagao: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Dais: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Dana: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Deacon's Star: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Deciani: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Divja Mocha: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Djabe: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Dongones: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Duberdicus: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Dulos: 4 profitable route(s). 24 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Ehecatl: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Eleumo: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Eototo: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Epsilon Pavonis: 4 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Esubii: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Eta Indi: 4 profitable route(s). 24 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Ewambutsu: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Fengthi: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Fjorgyn: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Fuelum: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Gadjil: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Gcirisci: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Gefjong: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Gelong: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Glinja: 2 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Guincans: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Gunapiti: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Gyvatanoy: 2 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Haoko: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Harada: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HDS 3215: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+He Xincians: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Hinook: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 101846: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HIP 102895: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HIP 106213: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HIP 1487: 8 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 1613: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 2504: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 3148: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 3292: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 3318: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 4668: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 4764: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+HIP 5178: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 5381: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 6772: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 7211: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+HIP 7766: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 862: 8 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HIP 8744: 4 profitable route(s). 0 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+HIP 87800: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 88728: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 91043: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 91295: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 91479: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 93377: 2 profitable route(s). 26 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 93566: 2 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 93645: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 94396: 2 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Hladaragua: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+HR 148: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HR 198: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+HR 6831: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HR 6950: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HR 7047: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HR 7263: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HR 7674: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HR 7749: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HR 7766: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HR 8104: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HR 8526: 4 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HR 8829: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Huandja: 2 profitable route(s). 26 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Idu mishmi: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Igal: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Indjin: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Ingguromal: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Isita: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Ither: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Jadlili: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Jala: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Jian Yu: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Jingones: 2 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Jonai: 2 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Kafigelabon: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Kaledoni: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Karaces: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Karetii: 2 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Kausautsu: 2 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Kavane: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Kazahua: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Kelish: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Khakum: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Khnemurt: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Khodiwobogi: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Khonesti: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Kin: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Kojin: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Kuluujja: 2 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Kurrae: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Kuwemargl: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+L 170-63: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Lak: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Laklang: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Lakurbal: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Landuma: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Lauma: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Lei Mati: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Lepontu: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+LHS 3388: 2 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+LHS 3666: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LHS 3675: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LHS 3728: 4 profitable route(s). 28 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LHS 3802: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LHS 3921: 4 profitable route(s). 26 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LHS 492: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LHS 519: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Lotigani: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+LP 214-1: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LPM 752: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 7669: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 7857: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8190: 4 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8410: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8456: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8517: 4 profitable route(s). 30 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8648: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8701: 4 profitable route(s). 26 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8750: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8852: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8968: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 9097: 4 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 9104: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 9156: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 9181: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Lu Bese: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Lushai: 2 profitable route(s). 26 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Lwalama: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Macame: 4 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Madngela: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Maiducane: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Maityati: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Matikuoluk: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Matucae: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Mbere: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Mehime: 4 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Meza Virs: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Mile: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Moror: 2 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Muga: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Mumbal: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Naduvul: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Nagaru: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Nagaybaks: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Narans: 2 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Narbago: 2 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Natrians: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Natrimi: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Negasargun: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Nerthus: 4 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Ngadakhis: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Ngobogdii: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Niali: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Nisgan: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector VT-I c9-2: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+NLTT 2682: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+No Cha: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Noonitokomu: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Nu Indi: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Nungamici: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Nunus: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Nyokomici: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Nyoru: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Ogoni: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Ogowendes: 4 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Okonos: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Oluf: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Onurongo: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Orcus: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Othet: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Parakara: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Paresa: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Pellang: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Pera: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Peraesii: 12 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Petra: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Phi-1 Pavonis: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Piculta: 4 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Pijaberet: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Pindians: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Piperish: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Ratis: 2 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Rauta: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Regira: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Rho Indi: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Ross 140: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Ross 151: 2 profitable route(s). 26 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Rukarwadja: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Samburitja: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+San Guan: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Sangenses: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Sapii: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Semali: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Serrod: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Shanluo Zi: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Singarli: 4 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Smethells 119: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Smethells 56: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Smethells 97: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+SPOCS 900: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Styra: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Susala: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Taotienses: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Tarakah: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Targari: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Tati: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Tehuenef: 4 profitable route(s). 0 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Temnet: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Temurt: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Ten Mandi: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Tetonang: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Thereila: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Theta Indi: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Thiansi: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Tigura: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Tirajo: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Tjiwuar: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Tobala: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Toresit: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Turir: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Two Ladies: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Uke Ngura: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Ullangwa: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Upsilon Phoenicis: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+V390 Pavonis: 4 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Vaivares: 2 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Vanir: 4 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Vargerson: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Verbigenses: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Walka: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Waribe: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Warkin: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Wattva: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Wayahukulha: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Wen Chayuse: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Witolia: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Wolf 772: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Wolf 827: 2 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Wurrucinga: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Wuthielo Ku: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Xamen Ek: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Xi Phoenicis: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Yadhariu: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Yalura: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Yao Tzu: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Yauri: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Yen Hsini: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Yer Tanri: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Yi Dhodere: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Yu Hsinda: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Yupini: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Zenmait: 8 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+BPM 26427: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector AR-S b18-6: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector CD-K a38-1: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector PV-R b19-7: 2 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+ICZ EH-U b3-3: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+ICZ IN-S b4-3: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+ICZ MN-T c3-29: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LP 283-3: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+LTT 8716: 4 profitable route(s). 28 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector FW-W d1-122: 4 profitable route(s). 2 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Telchine: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector EC-R b19-3: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector PN-R b18-2: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector PN-R b18-3: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector QN-R b18-0: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector QN-R b18-2: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector QN-R b18-4: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector TT-P b19-2: 8 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector UT-I c9-15: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector UT-P b19-0: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector UT-P b19-1: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Col 285 Sector ZZ-G c10-10: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Gamma Tucanae: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+ICZ UD-T b3-4: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+LTT 9494: 4 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector HH-V c2-21: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector KI-S b4-4: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector OO-Q b5-2: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector EC-R b18-5: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+DQ Tucanae: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector FD-K a38-0: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector JJ-I a39-0: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector JJ-I a39-6: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector JJ-I a39-7: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector JJ-I a39-8: 4 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Crucis Sector HC-M a7-1: 4 profitable route(s). 2 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector FW-W d1-121: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector NT-Q b5-7: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector DC-R b19-3: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector DC-R b19-7: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector EC-R B19-5: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector II-P B20-7: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector JI-P B20-3: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector JI-P B20-4: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector KP-G A40-3: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Col 285 Sector VT-P b19-2: 12 profitable route(s). 8 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+ICZ VO-R b4-4: 8 profitable route(s). 2 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Shui Wei Sector CL-P b5-2: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Shui Wei Sector LI-S b4-2: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector PO-Q b5-1: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector PO-Q b5-5: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector PO-Q b5-6: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector TU-O b6-7: 4 profitable route(s). 4 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Alrai Sector FW-W c1-27: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Alrai Sector JS-T b3-3: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+HIP 7237: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+HIP 7579: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+ICZ LH-V b2-0: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+ICZ NC-V b2-0: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+ICZ NC-V b2-1: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+Shui Wei Sector FW-W d1-123: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Alrai Sector FW-W c1-13: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Alrai Sector JS-T b3-6: 2 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Col 285 Sector AR-S b18-2: 4 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+ICZ RI-T b3-4: 12 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Alrai Sector OY-R b4-2: 2 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2576cr/t
+Col 285 Sector AX-L a37-0: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+ICZ PO-Q b5-6: 4 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector JI-S b4-6: 4 profitable route(s). 16 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Shui Wei Sector PO-Q b5-2: 4 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+Skemta: 4 profitable route(s). 22 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+ICZ JR-W c1-10: 4 profitable route(s). 6 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2672cr/t
+ICZ QX-U b2-0: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+LHS 3748: 4 profitable route(s). 20 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2511cr/t
+HIP 6612: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+ICZ SI-T b3-3: 12 profitable route(s). 14 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2692cr/t
+Best Trade Route: Anhualm(2692cr/hr)
+114 G. Aquilae: 2 profitable route(s). 40 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2505cr/t
+12 Gamma-1 Delphini: 2 profitable route(s). 18 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2505cr/t
+17 Cygni: 2 profitable route(s). 28 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2580cr/t
+27 b1 Cygni: 2 profitable route(s). 30 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2580cr/t
+30 Ceti: 2 profitable route(s). 2 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2910cr/t
+4 Eridani: 2 profitable route(s). 10 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2507cr/t
+40 Ceti: 2 profitable route(s). 2 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2578cr/t
+45 Theta Ceti: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2910cr/t
+47 Ceti: 4 profitable route(s). 12 unprofitable route(s) within 40ly. MOST PROFITABLE ROUTE: 2910cr/t
+54 Piscium: 2 profitable route(s). 48 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+6 Ceti: 2 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+61 Cygni: 2 profitable route(s). 54 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+61 Virginis: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+69 G. Carinae: 2 profitable route(s). 34 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+70 Ophiuchi: 2 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+72 Herculis: 4 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+78 Ursae Majoris: 2 profitable route(s). 54 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+82 Eridani: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+85 Pegasi: 2 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+86 Mu Herculis: 2 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+9 Ceti: 2 profitable route(s). 38 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+9 G. Carinae: 16 profitable route(s). 66 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+9 Ursae Minoris: 2 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+AB Pictoris: 28 profitable route(s). 56 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Abanda: 8 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Abazi: 2 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Abi: 2 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Abikudi: 6 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3148cr/t
+Abora: 6 profitable route(s). 6 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3148cr/t
+Abreda: 4 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Abukunn: 2 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Aburu: 4 profitable route(s). 24 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Abaana: 2 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2615cr/t
+AC +26 37030: 4 profitable route(s). 38 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Ac Yai: 22 profitable route(s). 62 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Ac Yariu: 70 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Acamar: 8 profitable route(s). 54 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2837cr/t
+Acan: 2 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Achan: 2 profitable route(s). 18 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Achehoongat: 2 profitable route(s). 44 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Achelous: 2 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Achenar: 50 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Achini: 4 profitable route(s). 18 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2582cr/t
+Achosi: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3003cr/t
+Achreni: 74 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Acihaut: 2 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Ackwada: 18 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Ackycha: 2 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Acokwang: 62 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Adachit: 10 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Adad: 2 profitable route(s). 38 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Adan: 54 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3569cr/t
+Addo: 10 profitable route(s). 12 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Addovik: 30 profitable route(s). 50 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Adeka: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Adenets: 2 profitable route(s). 54 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Aditjargl: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Adju: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3003cr/t
+Adnoartina: 64 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Aebocori: 42 profitable route(s). 48 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Aeduwona: 4 profitable route(s). 16 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Aeolus: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Aequeelg: 2 profitable route(s). 34 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Aerial: 66 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Afli: 32 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+AG+21 1754: 2 profitable route(s). 24 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Aganippe: 2 profitable route(s). 44 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Agarla: 50 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Agartha: 28 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Agastariya: 32 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Agathiar: 2 profitable route(s). 16 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Aguano: 32 profitable route(s). 20 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Agulmanji: 4 profitable route(s). 62 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2521cr/t
+Agulmasci: 4 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Agwe: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Aha Wa: 44 profitable route(s). 44 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Ahanla: 4 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Ahayan: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3003cr/t
+Ahaykenambo: 50 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Ahemaker: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3003cr/t
+Ahmetes: 24 profitable route(s). 28 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Ahmeti: 2 profitable route(s). 10 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2536cr/t
+Aholetondal: 58 profitable route(s). 24 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Ahti: 12 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Aiabara: 4 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Aiga: 4 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Aigalie: 4 profitable route(s). 24 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2582cr/t
+Airsetanoa: 76 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Aitva: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2747cr/t
+Aitvara: 2 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Ajani: 48 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Akanago: 8 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Akenata: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Akeretia: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Akheilos: 2 profitable route(s). 52 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Akhvaroua: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2536cr/t
+Akkadia: 2 profitable route(s). 42 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Aktzin: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Akualanu: 48 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3569cr/t
+Alacagui: 44 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Alacha: 8 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Alano: 60 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Albangait: 70 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Albango: 40 profitable route(s). 8 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Albassapic: 18 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Albast: 2 profitable route(s). 14 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Albicevci: 2 profitable route(s). 16 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Albienses: 24 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Alcor: 2 profitable route(s). 54 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Alderamin: 4 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Alectrona: 12 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Alichs: 22 profitable route(s). 16 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Alignak: 2 profitable route(s). 48 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Alina: 4 profitable route(s). 14 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2582cr/t
+Aling: 14 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Alino: 4 profitable route(s). 18 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Alioth: 2 profitable route(s). 54 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Alkaid: 2 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Allentiac: 18 profitable route(s). 10 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Allovana: 68 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Almad: 10 profitable route(s). 52 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3052cr/t
+Almas: 72 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Almudjara: 6 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2747cr/t
+Almudji: 88 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Alnair: 40 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Alouroua: 12 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2765cr/t
+Alpha Centauri: 2 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Alpha Chamaelontis: 2 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Alpha Fornacis: 2 profitable route(s). 28 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Alpha Octantis: 60 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Alpha Reticuli: 46 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3569cr/t
+Alpha Tucanae: 2 profitable route(s). 20 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Alpha Volantis: 4 profitable route(s). 52 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2521cr/t
+Alpheus: 40 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Alrai: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+ALS 16791: 38 profitable route(s). 10 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Altair: 2 profitable route(s). 44 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Aluremowo: 2 profitable route(s). 20 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Aluroua: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3003cr/t
+Alyuto: 2 profitable route(s). 50 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Amahibuhcha: 24 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Amarak: 4 profitable route(s). 34 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Amarigeni: 56 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Amber: 2 profitable route(s). 48 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Ambiabar: 28 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3073cr/t
+Ambibates: 28 profitable route(s). 10 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3176cr/t
+Ambiliates: 62 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Ambivas: 50 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Ambo: 30 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3255cr/t
+Amemasa: 20 profitable route(s). 28 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Amemets: 30 profitable route(s). 44 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Amenta: 34 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Amente: 46 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Amitrite: 70 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3569cr/t
+Ammatch: 60 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Amo: 40 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Amphisatsu: 62 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Amsitia: 2 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2747cr/t
+Amuza: 58 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Anahit: 44 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Anana: 2 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3003cr/t
+Anapos: 4 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Anareldt: 2 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Anari: 44 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Anarina: 34 profitable route(s). 34 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Anayali: 34 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Anaye: 6 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Anayicates: 72 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Anayol: 2 profitable route(s). 18 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Ancate: 12 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Andarici: 72 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Andere: 2 profitable route(s). 48 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Andhan: 56 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Andhrimi: 14 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Andijin: 2 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Andowathaku: 10 profitable route(s). 48 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2708cr/t
+Andowatye: 2 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Andr: 2 profitable route(s). 38 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2732cr/t
+Anek Wango: 46 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Anekaliti: 6 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Anemoi: 4 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Anets: 2 profitable route(s). 10 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2896cr/t
+Anganaha: 6 profitable route(s). 54 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2837cr/t
+Angandracab: 72 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Angi: 50 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Angrbonii: 46 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Angurongo: 22 profitable route(s). 18 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3073cr/t
+Anhualm: 6 profitable route(s). 10 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Anhuanga: 34 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Anhurs: 4 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Aninohanu: 22 profitable route(s). 12 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Ankayo: 4 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Ankou: 70 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Annar: 28 profitable route(s). 10 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Annarr: 14 profitable route(s). 12 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Annwn: 50 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3569cr/t
+Anociti: 8 profitable route(s). 8 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Antai: 14 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Antan: 2 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Antani: 16 profitable route(s). 6 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Antiang: 8 profitable route(s). 6 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Anticulosk: 4 profitable route(s). 14 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Anukan: 6 profitable route(s). 52 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2582cr/t
+Anukul: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Anum: 6 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2582cr/t
+Anuma: 20 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Anurinjung: 14 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Ao Ch'an: 2 profitable route(s). 50 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Ao Qin: 2 profitable route(s). 42 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Ao Shun: 2 profitable route(s). 44 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Aobriges: 36 profitable route(s). 52 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Aonghus: 6 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3148cr/t
+Aoniu: 32 profitable route(s). 24 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3073cr/t
+Aornum: 4 profitable route(s). 14 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Aowica: 18 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Apadipinook: 72 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Apala: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Apam Napat: 18 profitable route(s). 24 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Aparctias: 18 profitable route(s). 14 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Apathaam: 60 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Apik: 2 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Apino: 92 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Apishna: 14 profitable route(s). 30 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2924cr/t
+Apisni: 74 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Apisulfr: 72 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Apoyas: 60 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3724cr/t
+Apoyota: 2 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Apsarre: 50 profitable route(s). 14 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Apsu: 44 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Apterisha: 58 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Apurnarsu: 64 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3569cr/t
+Apuru: 28 profitable route(s). 20 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3073cr/t
+Apurui: 74 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4060cr/t
+Apuruk: 2 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2732cr/t
+Arabaka: 22 profitable route(s). 42 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Arabakti: 2 profitable route(s). 34 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Arabana: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2747cr/t
+Arabela: 62 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Arabh: 2 profitable route(s). 48 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Arabrigur: 6 profitable route(s). 8 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3148cr/t
+Arabru: 8 profitable route(s). 28 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Aracae: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Aracente: 76 profitable route(s). 12 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Aracenus: 94 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3495cr/t
+Arachi Szu: 8 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Arakapajo: 8 profitable route(s). 60 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2582cr/t
+Araman: 4 profitable route(s). 66 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2548cr/t
+Arambe: 2 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Aramzahd: 34 profitable route(s). 20 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3073cr/t
+Arannos: 2 profitable route(s). 32 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2521cr/t
+Arapa: 42 profitable route(s). 34 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Arapathaka: 42 profitable route(s). 36 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3491cr/t
+Arapipi: 10 profitable route(s). 8 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Arare: 14 profitable route(s). 16 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3123cr/t
+Arawn: 10 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3471cr/t
+Arcturus: 2 profitable route(s). 46 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2502cr/t
+Arevakimos: 46 profitable route(s). 4 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Arevat: 4 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2621cr/t
+Arexack: 60 profitable route(s). 0 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3569cr/t
+Argetlamh: 6 profitable route(s). 22 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Arhul: 2 profitable route(s). 2 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3003cr/t
+Arigens: 2 profitable route(s). 34 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Arikara: 10 profitable route(s). 40 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Arimavante: 2 profitable route(s). 16 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3315cr/t
+Arimpox: 4 profitable route(s). 18 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2792cr/t
+Arinack: 2 profitable route(s). 26 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 3029cr/t
+Arinas: 10 profitable route(s). 6 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2998cr/t
+Arindan: 20 profitable route(s). 28 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
+Aritimi: 4 profitable route(s). 28 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 2619cr/t
+Arkab Posterior: 20 profitable route(s). 28 unprofitable route(s) within 60ly. MOST PROFITABLE ROUTE: 4127cr/t
